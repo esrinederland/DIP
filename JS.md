@@ -1,7 +1,7 @@
 # JS API
 ## Assignment:
 1. Create a new webapp
-2. Add a MapView and a Map with a basemap of your choise.
+2. Add a MapView and a Map with a basemap of your choice.
 3. Add a FeatureLayer from the following URL:<br>
 https://services8.arcgis.com/pJN5OprYGVml9ZCV/ArcGIS/rest/services/DIP_Rest_Public/FeatureServer/0
 4. Add a Legend Widget
